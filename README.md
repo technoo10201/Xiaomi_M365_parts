@@ -12,5 +12,7 @@ Available :
 #{# [[[ This piece has to be make with Aluminium and CNC machine ]]]
 
 ☕☕ Want to offer me a coffee ? ☕☕
+
 http://paypal.me/technoologgie
+
 Telegram : https://t.me/TechnooLoggie
