@@ -11,7 +11,7 @@
 
 - [Mudgard support - Protect the mudgard of break](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Mudgard%20Support)
 
-![Mudgard support](Images/Mudgard%20Support/06.png) 
+![Mudgard support](Images/Mudgard%20Support/06.jpg) 
 
 - [Custom Powerful rear light](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Rear%20Light)
 
