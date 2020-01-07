@@ -2,15 +2,18 @@
 
 Available :
 
-- Falcon Ultimate Edition (https://www.thingiverse.com/thing:4078813)
+- Falcon Ultimate Edition
 
 ![Falcon Ultimate Edition](images/falcon/00.png)
 
 
-## [[[ This piece has to be make with Aluminium and CNC machine ]]]
+## [Links]
+
+Thingiverse : https://www.thingiverse.com/Technoo10201/designs
+Speak with me ? Telegram : https://t.me/TechnooLoggie
 
 ☕☕ Want to offer me a coffee ? ☕☕
 
 http://paypal.me/technoologgie
 
-Telegram : https://t.me/TechnooLoggie
+
