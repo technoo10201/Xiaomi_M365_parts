@@ -1,15 +1,15 @@
 ## Xiaomi M365 & M365 PRO - Free 3D files ! (STL + STEP)
 
 
-- Falcon Ultimate Edition
+- [Falcon Ultimate Edition](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Falcon)
 
 ![Falcon Ultimate Edition](images/falcon/00.png)
 
-- EAGLE
+- [EAGLE](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Eagle)
 
 ![Eagle](images/Eagle/00.png)
 
-- Mudgard support
+- [Mudgard support](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Mudgard%20Support)
 
 ![Mudgard support](images/mudgardsupport/00.png)
 
