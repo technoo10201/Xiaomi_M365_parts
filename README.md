@@ -11,7 +11,11 @@
 
 - [Mudgard support](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Mudgard%20Support)
 
-![Mudgard support](Images/Mudgard%20Support/00.png)
+![Mudgard support](Images/Mudgard%20Support/00.png) 
+
+- [Custom rear light (powerful)](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Rear%20Light)
+
+![Custom rear light](Images/Rear%20Light/00.png) 
 
 ## [Links]
 
