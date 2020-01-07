@@ -1,9 +1,13 @@
-## Xiaomi M365 & M365 PRO - Free 3D files !
+## Xiaomi M365 & M365 PRO - Free 3D files ! (STL + STEP)
 
 
 - Falcon Ultimate Edition
 
 ![Falcon Ultimate Edition](images/falcon/00.png)
+
+- EAGLE
+
+![Eagle](images/Eagle/00.png)
 
 
 ## [Links]
