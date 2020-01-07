@@ -1,4 +1,4 @@
-## FALCON Ultimate Edition - Xiaomi M365 & M365 PRO
+## FALCON Ultimate Edition
 
 ![Falcon Ultimate Edition](../../images/falcon/00.png)
 
