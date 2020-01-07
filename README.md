@@ -14,7 +14,7 @@ Thingiverse : https://www.thingiverse.com/Technoo10201/designs
 Speak with me ? Telegram : https://t.me/TechnooLoggie
 
 
-## ☕☕ Want to offer me a coffee ? ☕☕
+## ☕☕ Offer me a coffee ☕☕
 
 http://paypal.me/technoologgie
 
