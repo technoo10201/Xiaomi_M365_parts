@@ -3,19 +3,19 @@
 
 - [Falcon Ultimate Edition](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Falcon)
 
-![Falcon Ultimate Edition](Images/Falcon/00.png)
+![Falcon Ultimate Edition - Get the folding system](Images/Falcon/00.png)
 
-- [EAGLE](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Eagle)
+- [EAGLE - Remove folding system, stronger !](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Eagle)
 
 ![Eagle](Images/Eagle/00.png)
 
-- [Mudgard support](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Mudgard%20Support)
+- [Mudgard support - Protect the mudgard of break](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Mudgard%20Support)
 
 ![Mudgard support](Images/Mudgard%20Support/00.png) 
 
-- [Custom rear light (powerful)](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Rear%20Light)
+- [Custom Powerful rear light](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Rear%20Light)
 
-![Custom rear light](Images/Rear%20Light/00.png) 
+![Custom rear light](Images/Rear%20Light/00.jpg) 
 
 ## [Links]
 
