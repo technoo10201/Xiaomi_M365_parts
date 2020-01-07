@@ -1,3 +1,3 @@
 ## EAGLE (Block folding system)
 
-![Falcon Ultimate Edition](../../images/eagle/00.png)
+![Eagle](../../images/Eagle/00.png)
