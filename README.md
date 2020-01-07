@@ -3,15 +3,15 @@
 
 - [Falcon Ultimate Edition](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Falcon)
 
-![Falcon Ultimate Edition](images/falcon/00.png)
+![Falcon Ultimate Edition](Images/Falcon/00.png)
 
 - [EAGLE](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Eagle)
 
-![Eagle](images/Eagle/00.png)
+![Eagle](Images/Eagle/00.png)
 
 - [Mudgard support](https://github.com/technoo10201/Xiaomi_M365_parts/tree/master/Pieces/Mudgard%20Support)
 
-![Mudgard support](images/mudgardsupport/00.png)
+![Mudgard support](Images/Mudgard%20Support/00.png)
 
 ## [Links]
 
